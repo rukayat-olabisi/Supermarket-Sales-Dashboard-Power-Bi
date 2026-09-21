@@ -48,7 +48,8 @@ Member customers generated higher sales than Normal customers, with approximatel
 💡 Key Learning
 
 This project strengthened my practical experience in Power BI data cleaning, DAX calculations, interactive dashboard design, and data storytelling. It also reinforced the importance of presenting business data in a way that makes important patterns and insights easy to identify.
-👩🏽‍💻 Author
+
+## 👩🏽‍💻 Author
 
 Rukayat Olabisi
 Data Analyst | Power BI | Excel | SQL | Python
