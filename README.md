@@ -14,11 +14,14 @@ Revenue by city
 Sales performance by product category
 Sales by customer type
 Daily sales trends
+
 🛠️ Tools Used
+
 Microsoft Power BI
 Power Query – Data cleaning and transformation
 DAX – Measures and calculations
 Data Visualization – Interactive dashboard development
+
 🧹 Data Preparation
 
 The dataset was cleaned and prepared in Power BI before building the dashboard. The preparation process involved reviewing the data, handling inconsistencies, ensuring appropriate data types, and preparing the fields required for analysis and visualization.
@@ -37,6 +40,7 @@ Sales by Customer Type
 Daily Sales Trend
 Interactive filters for Product Category, City, and Gender
 Key Insights section highlighting major findings
+
 🔍 Key Insights
 
 The January 2024 analysis revealed that:
@@ -45,6 +49,7 @@ Abuja generated the highest revenue, contributing approximately 45% of total sal
 Electronics was the leading product category, accounting for approximately 45.05% of sales.
 Daily sales peaked on Day 11, reaching approximately 19K.
 Member customers generated higher sales than Normal customers, with approximately 95K compared with 80K.
+
 💡 Key Learning
 
 This project strengthened my practical experience in Power BI data cleaning, DAX calculations, interactive dashboard design, and data storytelling. It also reinforced the importance of presenting business data in a way that makes important patterns and insights easy to identify.
